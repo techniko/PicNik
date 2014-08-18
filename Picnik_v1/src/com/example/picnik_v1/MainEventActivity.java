@@ -26,6 +26,15 @@ public class MainEventActivity extends Activity {
 			startActivity(create);
 			}
 		});
+		join.setOnClickListener(new OnClickListener() {
+			
+			@Override
+			public void onClick(View arg0) {
+				// TODO Auto-generated method stub
+			Intent join=new Intent(MainEventActivity.this,JoinActivity.class);
+			startActivity(join);
+			}
+		});
 	}
 
 	@Override

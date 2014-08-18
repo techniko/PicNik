@@ -7,5 +7,11 @@
     <string name="title_activity_create_event">CreateEvent</string>
     <string name="title_activity_validation">ValidationActivity</string>
     <string name="title_activity_contri">ContriActivity</string>
+    <string name="title_activity_details">LoginDetails</string>
+    <string name="title_activity_join">JoinActivty</string>
+    <string name="title_activity_memberdetails">MemberLoginDetails</string>
+    <string name="title_activity_admin_timeline">AdminTimelineActivity</string>
+    <string name="title_activity_member_timeline">MemberTimelineActivity</string>
+    <string name="_login">_login</string>
 
 </resources>

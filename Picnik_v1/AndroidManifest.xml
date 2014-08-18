@@ -34,6 +34,26 @@
             android:name="com.example.picnik_v1.ContriActivity"
             android:label="@string/title_activity_contri" >
         </activity>
+        <activity
+            android:name="com.example.picnik_v1.LoginDetails"
+            android:label="@string/title_activity_details" >
+        </activity>
+        <activity
+            android:name="com.example.picnik_v1.JoinActivity"
+            android:label="@string/title_activity_join" >
+        </activity>
+        <activity
+            android:name="com.example.picnik_v1.MemberLoginDetails"
+            android:label="@string/title_activity_memberdetails" >
+        </activity>
+        <activity
+            android:name="com.example.picnik_v1.AdminTimelineActivity"
+            android:label="@string/title_activity_admin_timeline" >
+        </activity>
+        <activity
+            android:name="com.example.picnik_v1.MemberTimelineActivity"
+            android:label="@string/title_activity_member_timeline" >
+        </activity>
     </application>
 
 </manifest>
