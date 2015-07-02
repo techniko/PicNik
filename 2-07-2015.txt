@@ -1,0 +1,32 @@
+To do
+
+1st event complete
+10 users - feedback -- budget 4/5 rating 
+1 1500
+2 2000
+3 1500
+
+store destination - 1700
+
+location wise ( place , category )
+budget Rs. additional filter
+
+Destination by themes ( heritage , hill, beach, water , jungle ,adventurous )
+
+for Admin
+trip details
+2 main things event name,members 
+
+Tasks to do for now:
+start with android native app (without login n sign up)
+complete happy flow with event creater ( add event ,add members n details) 
+event can b trip or normal group (roommates etc)
+user / existing member join event and add contri ( fetch list and choose members for contri and amt)
+generate statement
+all contributions
+logic for generating statemet of contri for each member.
+
+critical things
+in UI choosing members from list and look and feel
+in Backend fix cloud service (aws or google cloud service)
+
